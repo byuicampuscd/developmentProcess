@@ -1,0 +1,11 @@
+{
+  "name": "development-process",
+  "version": "1.0.0",
+  "description": "This is the development process of software for the BYU-Idaho Campus Curriculum Development.",
+  "main": "",
+  "scripts": {
+    "test": "NA"
+  },
+  "author": "gshawm",
+  "license": "MIT",
+}
