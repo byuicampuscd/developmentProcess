@@ -1,4 +1,6 @@
 <h1 align="center"> Software Development Life-Cycle </h1>
+<h2 align="center"> This is the development process of software for the BYU-Idaho Campus Curriculum Development.
+ </h2>
 
 <table>
     <tr>
